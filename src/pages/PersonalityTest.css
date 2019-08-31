@@ -1,0 +1,39 @@
+.left-menu {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  margin: 28px 10px 0px 20px;
+}
+
+.display {
+  display: inline;
+  margin-left: -10px;
+  padding-right: 10px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.right-side-content {
+  background-color: #fff;
+}
+
+.test-completed-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.test-completed {
+  background-color: #ffffff;
+  color: green;
+  font-weight: bold;
+  padding: 20px;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
